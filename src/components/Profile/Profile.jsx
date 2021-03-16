@@ -13,6 +13,6 @@ const Profile = (props) => {
             addPost={props.addPost}/>
       </div>
     )
-}
+}  
 
 export default Profile;
